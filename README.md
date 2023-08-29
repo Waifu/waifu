@@ -3,12 +3,28 @@
 </h1>
  
 <p align=center>
-  
-  ![Waifu's GitHub Stats - Light](https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true&bg_color=00000000&text_color=000000&icon_color=E8908E&title_color=E8908E&hide_border=true#gh-light-mode-only)
-  ![Waifu's GitHub Stats - Dark](https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true&bg_color=00000000&text_color=FFFFFF&icon_color=E8908E&title_color=E8908E&hide_border=true#gh-dark-mode-only)
-
-  ![Waifu's GitHub Lang Stats - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=waifu&layout=compact&bg_color=00000000&text_color=000000&title_color=E8908E&hide_border=true#gh-light-mode-only)
-  ![Waifu's GitHub Lang Stats - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=waifu&layout=compact&bg_color=00000000&text_color=FFFFFF&title_color=E8908E&hide_border=true#gh-dark-mode-only)
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true&bg_color=00000000&text_color=FFFFFF&icon_color=E8908E&title_color=E8908E&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true&bg_color=00000000&text_color=000000&icon_color=E8908E&title_color=E8908E&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true" />
+  </picture>  
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=waifu&layout=compact&bg_color=00000000&text_color=FFFFFF&title_color=E8908E&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=waifu&layout=compact&bg_color=00000000&text_color=000000&title_color=E8908E&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true" />
+  </picture>  
 </p>
 
 ## Experience
