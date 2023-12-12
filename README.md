@@ -13,18 +13,7 @@
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true" />
-  </picture>  
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=waifu&layout=compact&bg_color=00000000&text_color=FFFFFF&title_color=5D5B9B&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=waifu&layout=compact&bg_color=00000000&text_color=000000&title_color=5D5B9B&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=waifu&show_icons=true" />
-  </picture>  
+  </picture>
 </p>
 
 ## Experience
